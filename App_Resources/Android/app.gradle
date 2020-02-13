@@ -13,6 +13,7 @@ android {
   defaultConfig {
     minSdkVersion 17
     generatedDensities = []
+    applicationId = "org.nativescript.nativescriptpushnotification"
   }
   aaptOptions {
     additionalParameters "--no-version-vectors"
